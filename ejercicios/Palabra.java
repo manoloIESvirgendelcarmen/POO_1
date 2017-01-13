@@ -43,7 +43,7 @@ public class Palabra {
 	//crear una main para comprobar que funciona
 		public static void main(String[] args) {
 			Palabra p = new Palabra("prueba");
-			System.out.println();
+			System.out.println(p);
 		}
 	
 	
